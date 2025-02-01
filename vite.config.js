@@ -17,7 +17,8 @@ export default defineConfig({
       theme_color: '#ffffff',
       background_color: '#ffffff',
       display: 'standalone',
-      start_url: '/',
+      start_url: '/react-calculator-app/',
+      scope: '/react-calculator-app/',
       icons: [
         {
           src: '/react-calculator-app/icons/icon-192x192.png',
