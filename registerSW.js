@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/react-calculator-app/sw.js', { scope: '/react-calculator-app/' })})}
