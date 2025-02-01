@@ -1,0 +1,7 @@
+.display{
+  margin:5px;
+  width:320px;
+  min-height: 80px;
+  font-size: 25px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
